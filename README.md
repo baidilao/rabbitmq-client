@@ -1,1 +1,1 @@
-rabbitmq-client
+rabbitmq 客户端测试
